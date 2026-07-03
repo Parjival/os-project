@@ -1,7 +1,7 @@
 # Lox Interpreter (Crafting Interpreters – Java Implementation)
 
 This project is a Java implementation of the Lox language from the book *Crafting Interpreters* by Robert Nystrom. It includes a lexer (scanner), parser, AST generator, AST printer 
-and a tree-walk interpreter. I did this project to learn about Interpreters,Compliers and their internal structure. 
+and a tree-walk interpreter. I did this project to learn about Interpreters, Compilers and their internal structure. 
 
 ## Features
 
